@@ -87,7 +87,7 @@ endmodule
 ```
 ## Output:
 ## Logic symbol & Truthtable
-![gates](https://user-images.githubusercontent.com/94219582/162557377-c046b762-174c-4892-8850-0d9083c3fd79.PNG)
+![truth1](https://user-images.githubusercontent.com/94219582/162557518-41805a47-eeb2-4206-9bfc-a01375f82237.png)
 
 ## RTL realization 
 ![gate](https://user-images.githubusercontent.com/94219582/162177489-a114e6e1-e7cf-45e5-8031-51e5cf22389d.PNG)
